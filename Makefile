@@ -50,12 +50,21 @@ fix: build
 update-auto: build
 	bin/assets update-auto
 
-# Helper commands.
-add-token: build
-	bin/assets add-token $(asset_id)
+# ... (código existente)
 
-add-tokenlist: build
-	bin/assets add-tokenlist $(asset_id)
+# Adicionar token
+add-elethcoin-token: build
+	bin/assets add-token --chainId 56 --address 0x61888e283070faec5edf697f97525942ce3a0e3e --symbol ELC --name TOKEN_elethcoin
 
-add-tokenlist-extended: build
-	bin/assets add-tokenlist-extended $(asset_id)
+# Listar token
+list-elethcoin-token: build
+	bin/assets list-token --chainId 56 --address 0x61888e283070faec5edf697f97525942ce3a0e3e --symbol ELC
+
+# Listar tokenlist
+list-elethcoin-tokenlist: build
+	bin/assets list-tokenlist --chainId 56 --address 0x61888e283070faec5edf697f97525942ce3a0e3e
+
+# Listar tokenlist estendido
+list-elethcoin-tokenlist-extended: build
+	bin/assets list-tokenlist-extended --chainId 56 --address 0x61888e283070faec5edf697f97525942ce3a0e3e
+
