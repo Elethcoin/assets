@@ -50,7 +50,6 @@ fix: build
 update-auto: build
 	bin/assets update-auto
 
-# ... (código existente)
 
 # Adicionar token
 add-elethcoin-token: build

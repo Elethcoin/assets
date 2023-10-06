@@ -1,0 +1,11 @@
+{
+    "name": "elethcoin",
+    "symbol": "ELC",
+    "type": "BEP20",
+    "decimals": 8,
+    "description": "Elethcoin is a BEP20 token built on the Binance Smart Chain (BSC).",
+    "website": "https://elethcoin.com/",
+    "explorer": "https://bscscan.com/token/0x61888e283070faec5edf697f97525942ce3a0e3e",
+    "status": "active",
+    "id": "ELC-8"
+}
