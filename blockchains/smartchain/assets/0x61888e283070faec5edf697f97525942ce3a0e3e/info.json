@@ -1,0 +1,25 @@
+{
+    "name": "Elethcoin",
+    "type": "BEP20",
+    "symbol": "ELC",
+    "decimals": 18,
+    "website": "https://elethcoin.com/",
+    "description": "Elethcoin is an innovative cryptocurrency project aiming to establish a reliable and secure digital financial system for users worldwide. Its purpose is to provide a decentralized and efficient financial solution that caters to the needs of individuals and businesses, enabling transactions and value storage without the need for traditional intermediaries.",
+    "explorer": "https://bscscan.com/token/0x61888e283070faec5edf697f97525942ce3a0e3e",
+    "status": "active",
+    "id": "0x61888e283070faec5edf697f97525942ce3a0e3e",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/ELETHCOIN"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/elethcoin"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/o33FE-IFuuQ3YThh"
+        }
+    ]
+}

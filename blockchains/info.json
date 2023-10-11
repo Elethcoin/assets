@@ -1,23 +1,22 @@
 {
-    "name": "Blockton",
-    "website": "https://blocktoncoin.com",
-    "short_description": "Blockton is a fast, high-throughput open-source Scalable, fast, and secure blockchain ecosystem.",
-    "description": "Blockton is a fast, high-throughput open-source Scalable, fast, and secure blockchain ecosystem.",
-    "explorer": "https://blocktonscan.com/",
-    "research": "https://docs.blocktonscan.com",
-    "type": "coin",
-    "symbol": "BTON",
-    "rpc_url": "https://rpc.blocktonscan.com/",
+    "name": "Elethcoin",
+    "website": "https://elethcoin.com/",
+    "short_description": "Elethcoin é um projeto de criptomoeda inovador que visa estabelecer um sistema financeiro digital confiável e seguro para usuários em todo o mundo. Sua finalidade é proporcionar uma solução financeira descentralizada e eficiente que atenda às necessidades de indivíduos e empresas, permitindo transações e armazenamento de valor sem a necessidade de intermediários tradicionais.",
+    "description": "Elethcoin é um projeto de criptomoeda inovador que visa estabelecer um sistema financeiro digital confiável e seguro para usuários em todo o mundo. Sua finalidade é proporcionar uma solução financeira descentralizada e eficiente que atenda às necessidades de indivíduos e empresas, permitindo transações e armazenamento de valor sem a necessidade de intermediários tradicionais.",
+    "explorer": "https://bscscan.com/token/0x61888e283070faec5edf697f97525942ce3a0e3e",
+    "research": "https://bscscan.com/block/32514951",
+    "type": "BEP20",
+    "symbol": "ELC",
+    "rpc_url": "https://bsc.mytokenpocket.vip",
     "decimals": 18,
     "status": "active",
     "links": [
         {
-            "name": "github",
-            "url": "https://github.com/blocktoncoin"
+            "name": "Elethcoin",
+            "url": "https://github.com/Elethcoin"
         },
         {
-            "name": "whitepaper",
-            "url": "https://blocktoncoin.com/whitepaper.pdf"
+          
         }
     ]
 }
