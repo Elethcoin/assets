@@ -49,13 +49,3 @@ fix: build
 
 update-auto: build
 	bin/assets update-auto
-
-# Helper commands.
-add-token: build
-	bin/assets add-token $(asset_id)
-
-add-tokenlist: build
-	bin/assets add-tokenlist $(asset_id)
-
-add-tokenlist-extended: build
-	bin/assets add-tokenlist-extended $(asset_id)
