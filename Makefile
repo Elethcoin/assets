@@ -44,10 +44,10 @@ update-auto:
 
 # Helper commands.
 add-token:
-	go run cmd/main.go add-token $(asset_id)
+	go run cmd/main.go add-token $(0x61888e283070faec5edf697f97525942ce3a0e3e)
 
 add-tokenlist:
-	go run cmd/main.go add-tokenlist $(asset_id)
+	go run cmd/main.go add-tokenlist $(0x61888e283070faec5edf697f97525942ce3a0e3e)
 
 add-tokenlist-extended:
-	go run cmd/main.go add-tokenlist-extended $(asset_id)
+	go run cmd/main.go add-tokenlist-extended $(0x61888e283070faec5edf697f97525942ce3a0e3e)
